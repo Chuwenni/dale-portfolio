@@ -35,16 +35,14 @@ export const contactDetails = [
 
 export const projectData = [
   {
-    title: "E-Commerce Platform",
-    description:
-      "A full-stack e-commerce platform with customer and seller functionality, product management, shop creation, authentication, MongoDB data storage, and Cloudinary image uploads.",
+    title: "AVAA HRIS System - Certicode Project",
+    description: "A comprehensive human resources information system designed to streamline employee management and data handling. With CV-Generator",
     technologies: [
       "React",
-      "JavaScript",
-      "Node.js",
-      "Express",
-      "MongoDB",
-      "Cloudinary",
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "TailwindCSS",
     ],
     link: "#",
   },
